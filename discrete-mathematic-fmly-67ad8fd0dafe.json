@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "discrete-mathematic-fmly",
+  "private_key_id": "67ad8fd0dafe5cfad056ce304e0608c021b9a383",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzbIuDTL9zGpls\ndNC5Tikhyz2VgXGsnuyGEeNLu5DhRTu/g0LSdp6hgHE/8uDC96GKbQvQ4RyyS2IG\nM6+BGKQHjay+J6RbJVI7ukICo3bF+GirPG6q7L+y2c8G99kL3oUhwia9vectatKv\nhHOp7C5ITCxtMwlctDMT8OKEXay1yBo3mv22h8jczUKip0YC0lLDaiwYhKX3zx54\nIC7+3MW5Zpo1ArOwWgvD+g+lESNeyZv1M3slw6n6LsKprGLXjzjE43Gj7E4f8YdQ\nZNxGV6xzRTsGQm5UNcfB7pw1zZY7baN7fMmK1QZMoiG28xsSiAe2xmG9+dhtqn+h\nmSHuFwvbAgMBAAECggEAFB2ZwJU0q59yTv4Dvpq8Ms058M6L44oHw3oy7PUw54if\nC7gYIEdrPnkLeVtuBn3DzyStm/P5ByY7ba2Swhr0nOIt2T3Rh+R1xTt7Fhekg8p3\nVadXUvNrBI61zravz0xZybCeLkyho+5jg4kKfKT9hV6A5pc/t/R9+4DYrHViHRkL\nXfTiUm51bdRHgEOR8qnSq16AaA+EnlN/AE7hvT0ES4B1HGhiEldH8Q9ySjwfTtu5\nIHt4lQEru+705xTP7PMcGHar05yvLxszoo/A8hqJQ/7G5CccMbzGsTAhjfmNhgty\nZLbQJXvAGox3w8WbBugnoH1Q3rpQ0N1zrsmprvgTIQKBgQDoF3+wLL6MEoq2xGg6\nl4UcEALOf1cakfgnRENvpo5xy2PDDS9LwQF9r44dUqFpYRNA9SIlENW92NI3/Vu6\nuJ/TeXAsFGlSIRtmRFei/LYW51QYSlf1JvWSBC49Dm3s+v6+i/CL3Ik9/DSW0IJd\n/vVmUK6AnlkCvPYxTjq2CgvhYQKBgQDF6CRaH16XdK5nrvanRpYbx2Er7eGDdZWO\nY02veGdcSoZP3p+Y09xi7wpTOmYOcr6qbq/dN2n33k1E75q/Xl0GFkW9pn1LehNo\nShLrj4HLrBlzmrG4rmSWUupQEEmJYq8F0h3ia32Rf2RivJUe0xvw1UIK943B4FvJ\n6yUgCR+quwKBgCaSoToadaC6BCvUAK6cOBct4gmHyGY2FFQSWFLaD5qB/xaPvmiM\nrz7ASpI9BW6KH7UQCJi4b42Z13ZOuUwTGxz+ddIdolNwBSm9+gKwlWLBF4zh7jRk\nQTP/Vd/34fUc0fHBOD1GbdjLbcIS7VfJ4+cZSac+qfR2i0QuiDtw+ACBAoGANjU6\n19Cl2ThlmRLMjs7/yMYY8K5sydRITcMXgUuqjBYBqhjhgDvvrs2o91kUoTp+zTIa\nS66lAPbMFWjH60kOk98/5Q2YXjcm37cCbbFWLRKLuiWSLnLeLGqzsZB0hAQayq5d\n7yngMB1DwuPCuLm8en//Yf+ivYsVuT4GYjr9iIcCgYAl+/5l/mz0h2bGpTRO86qi\n4FZ6gJ2eE1pi8KXkZuQELltiy0tStG6lIxVQaFJB6GJG8kMf4ZmGSRA3yxMhcMGI\nIdq61h8pz4/lUDyifnxxxei0ZeYTJsH5S68+zgmmWEU3BcFE2pHuWmN/9Mi00qSd\nJIi85tOgewHb7gINO61+ZA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-integrations@discrete-mathematic-fmly.iam.gserviceaccount.com",
+  "client_id": "113319071166779395201",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-integrations%40discrete-mathematic-fmly.iam.gserviceaccount.com"
+}
