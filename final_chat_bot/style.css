@@ -5,18 +5,17 @@
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
 }
-#btn{position: absolute; top: 10px; left: 10px;}
 .main {
-  background-image: url("robo.jpg");
+  background-image: url(robo.jpg);
   background-size: contain;
   background-repeat: no-repeat;
-  /* background-color: rgb(255, 255, 255); */
   width: 100%;
   height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .chat_box {
-  margin: auto 300px auto auto;
-  transform: translateY(40px);
   width: 400px;
   height: 90%;
   background-color: rgb(10, 10, 10);
@@ -64,11 +63,14 @@
   height: 78%;
   padding: 10px 15px;
   overflow-y: auto;
+  scroll-behavior: smooth;
 }
 .body::-webkit-scrollbar {
   display: none;
 }
 .bottom {
+  display: flex;
+  align-items: center;
   background-color: #fff;
   width: 100%;
   height: 8%;
@@ -77,6 +79,8 @@
   border-top: 1px solid white;
   border-radius: 0 0 10px 10px;
   /* box-shadow: 0px 0px 4px rgb(131, 131, 131); */
+  padding-top: 24px;
+  justify-content: space-evenly;
 }
 .msg {
   padding: 8px 10px 8px 10px;
@@ -102,10 +106,19 @@
   background-color: rgb(10, 10, 10);
   border: 2px solid rgb(86, 101, 115);
 }
+form{
+  position: relative;
+}
+#btn {
+  /* position: absolute; */
+  /* top: 15px; */
+  /* left: 280px; */
+  border-radius: 10px;
+}
 #text {
   float: left;
   margin: 13px 0 8px 10px;
-  width: 75%;
+  width: 70%;
   outline: none;
   border: none;
   padding: 10px;
@@ -116,6 +129,9 @@
 }
 #text:focus {
   background-color: rgb(26, 25, 25);
+}
+#btn{
+  padding: 10px;
 }
 
 #voice {
@@ -143,3 +159,31 @@
   font-size: 30px;
   transform: translateY(33%) translateX(74%) scale(1.3);
 }
+
+
+
+/* mobile responsive====================== */
+
+@media only screen and (max-width: 450px) {
+  
+  .chat_box {
+    width: 100%;
+    height: 100%;
+    border-radius: 0px; 
+}
+.msg {
+  margin: 4px;
+  word-spacing: 1px;
+  box-shadow: -2px -2px 2px #c1c1c17d inset, 2px 2px 2px #61616187 inset;
+}
+.computer {
+  border: none;
+}
+.bottom {
+  border-top: 1px solid #9a9a9a;
+}
+.header{
+  border-bottom: 1px solid #9a9a9a;
+}
+}
+
